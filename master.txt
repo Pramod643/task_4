@@ -1,1 +1,2 @@
 It is a master file
+Now changes in private branch
